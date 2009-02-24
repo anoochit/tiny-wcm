@@ -1,0 +1,2 @@
+<div id="footer">Copyright (c) <?=date("Y"); ?> <a href="http://www.redlinesoft.net" target="_blank">RedLine Software</a>. All Rights Reserved.</div>
+<div id="license">Tiny WCM is Free Software released under <a href="<?=$cfg_url; ?>/license">GNU/General Public License</a>.</div>
