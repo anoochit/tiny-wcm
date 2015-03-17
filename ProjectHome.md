@@ -1,0 +1,1 @@
+WCM is a new trend of content management system which not limit with feature of content management system. The system should extend or working with another system like social network system, open authentication, micro bloging and etc. This project is the part of [Idea Connect!](http://innovative.ideaconnect.co.cc), support by [RedLine Software](http://www.redlinesoft.net)
